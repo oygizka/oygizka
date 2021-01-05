@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studing on RUMELI UNIVERSITY 
+- 🔭 I’m currently studying on RUMELI UNIVERSITY 
 
 - 🌱 I’m currently learning CSS,HTML,JAVA,C#,C,JS,C++,PYHTON,PHP,ANGULAR,REACT,SQL
 
