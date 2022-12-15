@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning CSS,HTML,JAVA,C#,C,JS,C++,PYHTON,PHP,ANGULAR,REACT,SQL
 
-- 📫 How to reach me: INSTAGRAM:oygizka
+- 📫 How to reach me: INSTAGRAM:oyagizemkaraca
 
 - ⚡ Hobbies: playing guitar,skating,drawing,sing a song,code writing
 
